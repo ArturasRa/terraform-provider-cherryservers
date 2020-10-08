@@ -1,4 +1,4 @@
-module terraform-provider-cherryservers
+module github.com/terraform-providers/terraform-provider-cherryservers
 
 go 1.12
 
